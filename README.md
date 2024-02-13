@@ -69,7 +69,7 @@ Contudo, a versão inglesa não restaurou 100% dessas linhas.
 
 Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente duas linhas (v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas. Adicionar qualquer linha extra quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
 
-A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**. (Caso não as queira, basta ignorar os arquivos.)
+A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**.
 
 # Observações
 - Infelizmente não é possível corrigir os nomes que aparecem entre os capítulos. Eles foram alterados na versão inglesa e só é possível encontrar os arquivos originais em ```.dzi``` na versão de Nintendo Switch, a qual não consegui extrair todo o conteúdo. Embora seja possível substituir por arquivos ```.png```, é muito trabalhoso e a maneira mais prática envolveria extrair todo o conteúdo do jogo e substituir manualmente. Se você souber como extrair os ```.dat``` do console, entre em contato.
