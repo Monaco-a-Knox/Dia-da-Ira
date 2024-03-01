@@ -11,10 +11,10 @@ Além de adicionar a tradução, este patch restaura o **cursor original**, a **
 - Rota comum - 6/6 capítulos
 - Rota da Kasumi - 7/7 capítulos
 - Rota da Kei - 2/7 capítulos
-- Rota da Marie - 4/7 capítulos
+- Rota da Marie - 5/7 capítulos
 - Rota da Rea - 6/7 capítulos
 - Other Story - 5/5  capítulos
-- Total - 31/40 capítulos
+- Total - 32/40 capítulos
 
 Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 
