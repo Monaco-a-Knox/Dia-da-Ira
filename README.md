@@ -34,6 +34,11 @@ Dentro do arquivo ```data5.dat``` estão todos os demais arquivos referentes ao 
 
 # Tradução
 
+Em 2017, eu traduzi algumas cenas aleatórias, mas diversos problemas no jogo e a falta de ferramentas para criar um patch completo impediam de iniciar um projeto de tradução na época.
+Em 2023, eu decidi inserir o que tinha traduzido no jogo e, logo em seguida, encontrei ferramentas recentes que permitiriam fazer um patch e contornei quase todos os problemas. 
+Assim, resolvi terminar o que havia começado e embarcar na lamentável loucura de traduzir o jogo inteiro sozinho. Portanto, pode haver uma variação de qualidade nas cenas antigas em relação ao restante.
+Talvez eu desista e nunca termine a rota da Kei...
+
 Para traduzir, é necessário extrair o arquivo ```exec.dat``` de dentro do ```data3.dat```, localizado na pasta ```system```, utilizando o GARbro.
 Tendo extraído, utilize o programa StringTool, criado por [marcussacana](https://github.com/marcussacana/SacanaWrapper), para converter o script em ```exec.txt```.
 Para compilar, utilize novamente o programa StringTool.exe.
