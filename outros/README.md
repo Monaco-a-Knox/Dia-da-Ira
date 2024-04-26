@@ -4,9 +4,8 @@ Dentro do arquivo ```.ini``` estão instruções sobre música de menu, cor de t
 Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhecem se não estiverem compilados.
 Dentro do arquivo ```translation.csv```, quando houver, é possível traduzir alguns botões do jogo que são acessados pela janela. Infelizmente eles não suportam acentuação.
 
-A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta. Em Dies Irae, todo o conteúdo do patch está no ```data5.dat```.
-É possível fazer mais de um arquivo, colocando coisas diferentes em cada. Neste patch, eu coloquei tudo num só arquivo, embora seja possível fazer um segundo somente com cenas sem censura, assim o jogador poderia optar por tê-las ou não.
-Uma vez que sou conta a censura, não o fiz, mas você pode fazer sua própria versão caso tenha aversão a gore, calcinhas ou mamilos.
+A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta.
+É possível fazer mais de um arquivo, colocando coisas diferentes em cada. Neste patch, todo conteúdo da tradução é sempre compilado em um novo ```data5.dat```, enquanto há um ```data6.dat``` pronto com as artes sem censura.
 
 # Extração do script
 
