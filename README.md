@@ -24,7 +24,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 # Instalação Final - futuramente
 
 - Baixe o patch disponível no Github.
-- Extraia o conteúdo e coloque a pasta da ```data```, juntamente dos arquivos ```data.5``` e ```malie.ini``` na pasta raiz do jogo.
+- Extraia o conteúdo e coloque os três arquivos e a pasta ```data```na pasta raiz do jogo. O arquivo ```data.5``` contém tudo relacionado a tradução, enquanto o ```data.6``` contém as cgs sem censura e pode ser ignorado caso você seja fresco.
 
 # Créditos
 
