@@ -51,8 +51,8 @@ Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma for
 - [z] — fim da linha/esperar pelo próximo clique
 - [s] — fim da linha dublada/interromper áudio após o clique
 - [r] — não lembro o que faz
-- [ ]( ) — adicionar sobrescrito (ruby) e.g [破壊](あい)
-- [ ]( 、) — ênfase japonesa e.g [先]( 、)[達]( 、)
+- []() — adicionar sobrescrito (ruby) e.g [ 破壊 ](あい)
+- [](、) — ênfase japonesa e.g [ 先 ]( 、)[ 達 ]( 、)
 - v_sy0086 — indica o arquivo de voz
 - Quando for utilizar o travessão duplo (——) opte pelo japonês (――) pois ele é exibido melhor dentro do jogo.
 - Em Dies Irae, este código estranho adiciona itálico.
