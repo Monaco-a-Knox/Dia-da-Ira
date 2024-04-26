@@ -4,7 +4,8 @@ Dentro do arquivo ```.ini``` estão instruções sobre música de menu, cor de t
 Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhecem se não estiverem compilados.
 
 A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta. Em Dies Irae, todo o conteúdo do patch está no ```data5.dat```.
-É possível fazer mais de um arquivo, colocando coisas diferentes em cada, caso você deseje ofertar diferente tipos de patch e.g só tradução ou só imagens modificadas.
+É possível fazer mais de um arquivo, colocando coisas diferentes em cada. Neste patch, eu coloquei tudo num só arquivo, embora seja possível fazer um segundo somente com cenas sem censura, assim o jogador poderia optar por tê-las ou não.
+Uma vez que sou conta a censura, não o fiz, mas você pode fazer sua própria versão caso tenha aversão a gore, calcinhas ou mamilos.
 
 # Extração do script
 
@@ -36,15 +37,16 @@ Você encontre ele já compilado por mim neste [repositório](https://github.com
 
 # Edição de imagens
 
-O jogo sempre dará prioridade para os arquivos originais em ```.dzi```, entretanto você pode substituí-los por ```.png```.
-Para isso, é necessário modificar os arquivos ```.svg``` correspondentes de cada imagem individualmente, normalmente localizados nas pastas ```text```, adicionando o link da sua imagem modificada e.g. ```xlink:href='./image01_pt.png'```.
-Caso suas imagens editadas possuam outras dimensões, é preciso modificar também os valores ```width/height```. Se precisar modificar o posicionamento, altera as coordenadas as coordenadas ```x/y```. 
+O jogo sempre dará prioridade para os arquivos originais fracionados em ```.webp```, onde as informações de montagem encontram-se nos arquivos ```.dzi```.
 
-Se você extrair todo o conteúdo do jogo com o GARbro e remover os ```data.dat```, o jogo vai puxar todos os arquivos diretamente das pastas.
+Entretanto, você pode substituí-los por arquivos ```.png```. Para isso, é necessário modificar os arquivos ```.svg``` correspondentes de cada imagem individualmente, adicionando o link da sua imagem modificada e.g. ```xlink:href='./image01_pt.png'```.
+Caso suas imagens editadas possuam outras dimensões, é preciso modificar também os valores ```width/height```. Se precisar modificar o posicionamento, altere também as coordenadas ```x/y```.
+
+Se você extrair todo o conteúdo do jogo com o GARbro e remover os ```data.dat```, o jogo vai puxar todos os arquivos diretamente das pastas extraída.
 Em alguns jogos, como KKK, onde textos verticais precisam ser reposicionados manualmente na direção horizontal, acertar as coordenadas é um desafio.
 Sendo assim, este processo é recomendado para poder testar as modificações sem precisar compilar tudo dentro de um ```data.dat``` diversas vezes até dar certo.
 
-Se você souber chinês, o usurário Akaruzi escreveu recentemente um [guia](https://github.com/Akaruzi/kkk_r18_patch/blob/master/README.md) mais detalhado e com imagens.
+Se você souber chinês, o usurário Akaruzi escreveu recentemente um [guia](https://github.com/Akaruzi/kkk_r18_patch/blob/master/README.md) mais detalhado e com imagens ilustrativas.
 
 # Compilação
 
