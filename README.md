@@ -2,7 +2,7 @@
 
 Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes ~. 
 Compatível com as versões Steam/DX package/Animation Anniversary. 
-Embora a verão japonesa permita jogar em resolução 16:9 e 4:3, uma ou outra linha pode não ter áudio.
+Embora a versão japonesa permita jogar em resolução 16:9 e 4:3, uma ou outra linha pode não ter áudio.
 
 Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**, algumas **CGs sem censura** e  **arquivos de voz faltantes ou censurados**.
 
