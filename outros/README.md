@@ -2,6 +2,7 @@
 
 Dentro do arquivo ```.ini``` estão instruções sobre música de menu, cor de texto lido, tamanho da fonte e outras coisas.
 Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhecem se não estiverem compilados.
+Dentro do arquivo ```translation.csv```, quando houver, é possível traduzir alguns botões do jogo que são acessados pela janela. Infelizmente eles não suportam acentuação.
 
 A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta. Em Dies Irae, todo o conteúdo do patch está no ```data5.dat```.
 É possível fazer mais de um arquivo, colocando coisas diferentes em cada. Neste patch, eu coloquei tudo num só arquivo, embora seja possível fazer um segundo somente com cenas sem censura, assim o jogador poderia optar por tê-las ou não.
@@ -59,17 +60,30 @@ Para cada jogo que utilize a engine MalieSystem, é necessário modificar o ```d
 Neste patch específico, todo o processo de compilação é feito automaticamente através do [GitHub Actions.](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/dependencies/compile_pc.py).
 Para rodar localmente, use o comando ```python dependencies\compile_pc.py```
 
+# Tipografia
+
+As fontes usadas em jogos da Light aceitam praticamente todos os caracteres romanos, com exceção de caracteres romenos/poloneses/turcos específicos, tais quais: ś, ṇ, ṃ, ș etc.
+Nem todos os kanjis chineses são suportados.
+
+Caso sejam essências, você pode modificar a fonte ou substituí-la por qualquer outra fonte ```.otf```. A nova fonte pode ter o mesmo nome da antiga, ou atualizar o ```malie.ini``` com o nome da nova fonte.
+No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 
 # Tradução e censura de Dies Irae
 
 A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas.  **Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
 
-Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo.
+Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo. Há cerca de 300 linhas que foram editadas, corrigidas, modificadas censura ou removidas na versão japonesa de console.
 Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
-Contudo, a versão inglesa não restaurou 100% dessas linhas. 
+Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
-Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente duas linhas (v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas. Adicionar qualquer linha extra quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
-
+Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais. Infelizmente duas linhas (v_vi0267 e v_sy2162) não podem ser restauradas porque foram removidas no japonês e o inglês não restaurou. 
 A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**.
 
+Adicionar qualquer linha extra quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
+
+# Observações
+
+- Os jogos japoneses precisam do crack chinês AlphaROMdiE, o qual você já deve conhecer bem.
+- Em alguns jogos, como Senshinkan, você pode ter problemas para instalar. Meramente extrair o conteúdo do primeiro arquivo não vai extrair na sequência o conteúdo dos seguintes. É necessário extrair um por um, individualmente.
+- Em Kajiri Kamui Kagura, você pode ter problemas com a caixa de texto se modificar o script com todos os arquivos extraídos. Jamais delete os ```.dat``` originais pois são necessários para restaurar a caixa que você quebrou.
 
