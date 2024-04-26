@@ -45,17 +45,18 @@ Com exceção da versão inglesa de Dies Irae, que corrige esse problema automat
 Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o script criado por [Cosetto](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-2076302302). É preciso modificá-lo para se ajustar ao seu jogo, indicando a codificação do seu script e quantos caracteres cabem por linha na sua caixa de texto.
 
 # Códigos e comandos
-
+```
 - [n] — quebrar linha/adicionar nova linha
 - [c] — quebrar linha/adicionar nova linha (aparentemente não há diferença)
 - [z] — fim da linha/esperar pelo próximo clique
 - [s] — fim da linha dublada/interromper áudio após o clique
 - [r] — não lembro o que faz
-- []() — adicionar sobrescrito (ruby) e.g [ 破壊 ](あい)
-- [](、) — ênfase japonesa e.g [ 先 ]( 、)[ 達 ]( 、)
+- [ ]( ) — adicionar sobrescrito (ruby) e.g [破壊](あい)
+- [ ](、) — ênfase japonesa e.g [先]( 、)[達]( 、)
 - v_sy0086 — indica o arquivo de voz
 - Quando for utilizar o travessão duplo (——) opte pelo japonês (――) pois ele é exibido melhor dentro do jogo.
 - Em Dies Irae, este código estranho adiciona itálico.
+```
 
 - Os comandos acima só podem ser utilizados extraindo o texto com o Malie_Script_Tool.
 - As runas de DI/KKK aparecem como caracteres ilegíveis na extração do Malie_Script_Tool, já na extração do StringTool, a linha meramente fica vazia.
