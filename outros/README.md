@@ -29,12 +29,12 @@ O arquivo ```exec.msg.txt``` contém o texto duplicado, na qual somente a segund
 O arquivo ```exec.str.txt``` contém as escolhas e nomes dos personagens. Nele também é possível modificar a exibição do texto horizontal/vertical.
 
 Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
+Você encontre ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
 
 # Quebra de linha - line break/wordwarp
 
 Com exceção da versão inglesa de Dies Irae, que corrige esse problema automaticamente, os demais jogos vão quebrar as palavras no meio caso não tenha espaço na linha.
 Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o script criado por [Cosetto](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-2076302302). É preciso modificá-lo para se ajustar ao seu jogo, indicando a codificação do seu script e quantos caracteres cabem por linha na sua caixa de texto.
-Você encontre ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
 
 # Edição de imagens
 
