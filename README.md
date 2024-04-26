@@ -24,12 +24,12 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 # Instalação Final - futuramente
 
 - Baixe o patch disponível no Github.
-- Extraia o conteúdo e coloque os três arquivos e a pasta ```data```na pasta raiz do jogo. O arquivo ```data.5``` contém tudo relacionado a tradução, enquanto o ```data.6``` contém as cgs sem censura e pode ser ignorado caso você seja fresco.
+- Extraia o conteúdo e coloque os três arquivos e a pasta ```data```na pasta raiz do jogo. O arquivo ```data5.dat``` contém tudo relacionado a tradução, enquanto o ```data6.dat``` contém as cgs sem censura e pode ser ignorado caso você seja fresco.
 
 # Créditos
 
 **Tradução:**
-[Deca](https://github.com/Monaco-a-Knox)
+[Monaco A. Knox](https://github.com/Monaco-a-Knox)
 
 **Colaboradores diretos e indiretos:**
 [Crsky](https://github.com/crskycode/Malie_Script_Tool)
