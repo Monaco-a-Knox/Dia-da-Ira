@@ -41,7 +41,7 @@ Além disso, por vezes, um programa pode apresentar incompatibilidades com o out
 # Quebra de linha - line break/wordwarp
 
 Com exceção da versão inglesa de Dies Irae, que corrige esse problema automaticamente, os demais jogos vão quebrar as palavras no meio caso não tenha espaço na linha.
-Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o script criado por [Cosetto](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-2076302302). É preciso modificá-lo para se ajustar ao seu jogo, indicando a codificação do seu script e quantos caracteres cabem por linha na sua caixa de texto.
+Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o [script](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/dependencies/wordwrap.py) criado por Cosetto e modificado por mim para ser usado em KKK com caixa de texto vertical.
 
 # Códigos e comandos
 ```
