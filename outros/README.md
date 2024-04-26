@@ -22,19 +22,42 @@ Caso o número de linhas não seja igual, o programa não irá compilar. Essa ex
 
 Infelizmente, o script extraído pelo StringTool não permite acesso às escolhas e nomes na caixa de texto, tampouco permite adicionar ou remover sobrescritos (rubys) e itálicos, embora possa ignorá-los.
 
-Para isso, é necessário utilizar o programa  Malie_Script_Tool, criado por [Crsky](https://github.com/crskycode/Malie_Script_Tool). Este programa é mais recomendado para extrair o script japonês.
+Para isso, é necessário utilizar o programa Malie_Script_Tool, criado por [Crsky](https://github.com/crskycode/Malie_Script_Tool). Este programa é mais recomendado para extrair o script japonês.
 
 O arquivo ```exec.msg.txt``` contém o texto duplicado, na qual somente a segunda linha importa para a tradução.
 
 O arquivo ```exec.str.txt``` contém as escolhas e nomes dos personagens. Nele também é possível modificar a exibição do texto horizontal/vertical.
 
+```msgframe type='enable' dir='normal'``` indica a direção do texto: normal/horizonta e vertical.
+```msgframe src='normal_r'``` indica qual caixa de texto será utilizada. Aqui refere-se a caixa vertical direita de KKK, na qual as dimensões podem ser modificadas editando ```normal_r.svg```
+```src='text01'``` refere-sem, em KKK, às imagens das cartas.
+
 Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
 Você encontre ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
+
+Infelizmente, nenhum desses métodos dá acesso ao script na íntegra, com toda sua programação. É por isso que modificar o número de linhas quebra a compilação.
+
+Além disso, por vezes, um programa pode apresentar incompatibilidades com o outro. Ocorre de um ```.dat``` compilado pelo Malie_Script_Tool não ser aberto depois pelo StringTool — normalmente ao fazer mudanças no ```exec.str.txt```.
 
 # Quebra de linha - line break/wordwarp
 
 Com exceção da versão inglesa de Dies Irae, que corrige esse problema automaticamente, os demais jogos vão quebrar as palavras no meio caso não tenha espaço na linha.
 Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o script criado por [Cosetto](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-2076302302). É preciso modificá-lo para se ajustar ao seu jogo, indicando a codificação do seu script e quantos caracteres cabem por linha na sua caixa de texto.
+
+# Códigos e comandos
+
+[n] - quebrar linha/adicionar nova linha
+[c] - quebrar linha/adicionar nova linha (aparentemente não há diferença)
+[z] - fim da linha/esperar pelo próximo clique
+[s] - fim da linha dublada/interromper áudio após o clique
+[r] - não lembro o que faz
+[ ]( ) - adicionar sobrescrito (ruby) e.g [破壊](あい)
+[ ]( 、) - ênfase japonesa e.g [先]( 、)[達]( 、)
+itálico - código estranho que adiciona itálico em Dies Irae, e somente Dies Irae
+
+- Os comandos acima só podem ser utilizados extraindo o texto com o Malie_Script_Tool.
+- As runas de DI/KKK aparecem como caracteres ilegíveis na extração do Malie_Script_Tool, já na extração do StringTool, a linha meramente fica vazia.
+- Em KKK, é possível adicionar textos sobrescrito por cima das runas (神代文字), mas somente no modo NVL.
 
 # Edição de imagens
 
