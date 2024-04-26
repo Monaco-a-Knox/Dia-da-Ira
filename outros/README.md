@@ -3,7 +3,7 @@
 Dentro do arquivo ```.ini``` estão instruções sobre música de menu, cor de texto lido, tamanho da fonte e outras coisas.
 Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhecem se não estiverem compilados.
 
-A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta. Em Dies Irae, todo o conteúdo do patch está no ```data5.da```.
+A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta. Em Dies Irae, todo o conteúdo do patch está no ```data5.dat```.
 É possível fazer mais de um arquivo, colocando coisas diferentes em cada, caso você deseje ofertar diferente tipos de patch e.g só tradução ou só imagens modificadas.
 
 # Extração do script
@@ -13,7 +13,7 @@ O script está criptografado dentro do ```exec.dat```, que fica localizado dentr
 Utilize a versão modificada do [GARbro](https://github.com/crskycode/GARbro/commits/master/) para conseguir abrir os ```.dat``` da maioria dos jogos produzidos pela Light.
 É possível utilizar dois programas para converter ```exec.dat``` em ```exec.txt```.
 
-O primeiro é o StringTool criado por [marcussacana](https://github.com/marcussacana/SacanaWrapper). Este programa é mais recomendado para extrair o script em inglês devido a maneira como as linhas são exibidas.
+O primeiro é o StringTool, criado por [marcussacana](https://github.com/marcussacana/SacanaWrapper). Este programa é mais recomendado para extrair o script em inglês devido a maneira como as linhas são exibidas.
 
 É importante que tanto o ```exec.dat``` quanto o ```exec.txt``` **tenham o mesmo número de linhas e estejam na mesma pasta**.
 Caso o número de linhas não seja igual, o programa não irá compilar. Essa exigência vale também para o programa mencionado abaixo.
@@ -25,12 +25,14 @@ Para isso, é necessário utilizar o programa  Malie_Script_Tool, criado por [Cr
 O arquivo ```exec.msg.txt``` contém o texto duplicado, na qual somente a segunda linha importa para a tradução.
 
 O arquivo ```exec.str.txt``` contém as escolhas e nomes dos personagens. Nele também é possível modificar a exibição do texto horizontal/vertical.
+
 Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
 
 # Quebra de linha - line break/wordwarp
 
 Com exceção da versão inglesa de Dies Irae, que corrige esse problema automaticamente, os demais jogos vão quebrar as palavras no meio caso não tenha espaço na linha.
 Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o script criado por [Cosetto](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-2076302302). É preciso modificá-lo para se ajustar ao seu jogo, indicando a codificação do seu script e quantos caracteres cabem por linha na sua caixa de texto.
+Você encontre ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
 
 # Edição de imagens
 
@@ -38,17 +40,19 @@ O jogo sempre dará prioridade para os arquivos originais em ```.dzi```, entreta
 Para isso, é necessário modificar os arquivos ```.svg``` correspondentes de cada imagem individualmente, normalmente localizados nas pastas ```text```, adicionando o link da sua imagem modificada e.g. ```xlink:href='./image01_pt.png'```.
 Caso suas imagens editadas possuam outras dimensões, é preciso modificar também os valores ```width/height```. Se precisar modificar o posicionamento, altera as coordenadas as coordenadas ```x/y```. 
 
-Se você extrair todo o conteúdo do jogo com o GARbro e remover os `data.dat```, o jogo vai puxar todos os arquivos diretamente das pastas.
+Se você extrair todo o conteúdo do jogo com o GARbro e remover os ```data.dat```, o jogo vai puxar todos os arquivos diretamente das pastas.
 Em alguns jogos, como KKK, onde textos verticais precisam ser reposicionados manualmente na direção horizontal, acertar as coordenadas é um desafio.
 Sendo assim, este processo é recomendado para poder testar as modificações sem precisar compilar tudo dentro de um ```data.dat``` diversas vezes até dar certo.
+
+Se você souber chinês, o usurário Akaruzi escreveu recentemente um [guia](https://github.com/Akaruzi/kkk_r18_patch/blob/master/README.md) mais detalhado e com imagens.
 
 # Compilação
 
 Para compilar todos os arquivos do jogo dentro de um novo ```data.dat``` é necessário utilizar o programa [Malie's packer](https://github.com/satan53x/SExtractor/tree/main/tools/Malie).
 
-É importante observar a estrutura original do jogo. Em Dies Irae, todos os arquivos e subpastas ficam dentro da pasta ```data```, então indique o caminho onde a pasta está localizada, não a pasta em si. No caso deste patch, é indicado a pasta ```patch```, onde dentro encontra-se a ```data```
+É importante observar a estrutura original do jogo. Em Dies Irae, todos os arquivos e subpastas ficam dentro da pasta ```data```, então indique o caminho onde a pasta está localizada, não a pasta em si. No caso deste patch, é indicado a pasta ```patch```, onde dentro encontra-se a ```data```.
 
-Para cada jogo que utilize a engine MalieSystem, é necessário modificar ```dat_pack.py```, indicando os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
+Para cada jogo que utilize a engine MalieSystem, é necessário modificar o ```dat_pack.py```, indicando os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
 
 Neste patch específico, todo o processo de compilação é feito automaticamente através do [GitHub Actions.](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/dependencies/compile_pc.py).
 Para rodar localmente, use o comando ```python dependencies\compile_pc.py```
