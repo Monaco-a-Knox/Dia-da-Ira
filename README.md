@@ -6,7 +6,7 @@ Embora a verão japonesa permita jogar em resolução 16:9 e 4:3, uma ou outra l
 
 Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**, algumas **CGs sem censura** e  **arquivos de voz faltantes ou censurados**.
 
-Para informações detalhadas sobre este projeto e como traduzir um jogo que utilize a engine MalieSystem, clique [aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/README.md).
+Para informações detalhadas sobre este projeto e como traduzir um jogo que utilize a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/README.md).**
 
 # Progresso
 - Introdução - 1/1 legenda
@@ -14,10 +14,10 @@ Para informações detalhadas sobre este projeto e como traduzir um jogo que uti
 - Rota comum - 6/6 capítulos
 - Rota da Kasumi - 7/7 capítulos
 - Rota da Kei - 2/7 capítulos
-- Rota da Marie - 5/7 capítulos
+- Rota da Marie - 6/7 capítulos
 - Rota da Rea - 7/7 capítulos
 - Other Story - 5/5  capítulos
-- Total - 33/40 capítulos
+- Total - 34/40 capítulos
 
 Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 
@@ -26,7 +26,7 @@ Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 - Baixe o patch disponível no Github.
 - Extraia o conteúdo e coloque a pasta da ```data```, juntamente dos arquivos ```data.5``` e ```malie.ini``` na pasta raiz do jogo.
 
-# Crédios
+# Créditos
 
 **Tradução:**
 [Deca](https://github.com/Monaco-a-Knox)
