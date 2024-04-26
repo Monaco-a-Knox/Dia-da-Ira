@@ -16,9 +16,9 @@ def stringtool():
 
 def compile():
     # Define onde o arquivo tex para descompressão está, extrai e move para a pasta patch
-    tex_location = "outros/tex.7z"
-    run([r'dependencies/7za.exe', 'x'] + shlex.split(tex_location))
-    shutil.move('tex', 'patch/data/picture/event/tex')
+    #tex_location = "outros/tex.7z"
+    #run([r'dependencies/7za.exe', 'x'] + shlex.split(tex_location))
+    #shutil.move('tex', 'patch/data/picture/event/tex')
     
     # Define onde está o arquivo data_pack.py e pasta patch, roda o script e move para a pasta de release
     packer_args = "dependencies/dat_pack.py patch"
