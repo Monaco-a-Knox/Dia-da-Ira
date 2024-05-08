@@ -108,7 +108,7 @@ Adicionar qualquer linha extra quebra o atual processo de compilação. Assim se
 
 # Observações
 
-- Os jogos japoneses precisam do crack chinês AlphaROMdiE, o qual você já deve conhecer bem. No entanto, para KKK há um executável que funciona sem o crack agora. [Cortesia do Cosetto](https://github.com/Akaruzi/dies_aitrans/files/15195709/malie.zip).
+- Os jogos japoneses precisam do crack chinês AlphaROMdiE, o qual você já deve conhecer bem. No entanto, para KKK há um executável que funciona sem o crack agora. [Cortesia do Cosetto](https://github.com/Akaruzi/dies_aitrans/files/15236486/malie.zip).
 - Em alguns jogos, como Senshinkan, você pode ter problemas para instalar. Meramente extrair o conteúdo do primeiro arquivo não vai extrair na sequência o conteúdo dos seguintes. É necessário extrair um por um, individualmente.
 - Em Kajiri Kamui Kagura, você pode ter problemas com a caixa de texto se modificar o script com todos os arquivos extraídos. Jamais delete os ```.dat``` originais pois são necessários para restaurar a caixa que você quebrou.
 
