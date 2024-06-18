@@ -101,7 +101,7 @@ Como você deve saber, a versão japonesa de Amantes Amantes, lançada para comp
 Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
 Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
-Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de treze arquivos foram substituídos e três (v_vi0267 | v_ke4311| v_sy2162) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
+Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de dezesseis arquivos foram substituídos e outros quatro (v_vi0267 | v_ke4311| v_sy2162 | v_ru5232) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
 A versão inglesa também optou por restaurar **apenas algumas** artes sem censura e **manter outras** censuradas. Neste patch, eu as **restaurei**.
 
 Adicionar qualquer linha extra quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
