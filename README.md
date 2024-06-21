@@ -4,7 +4,7 @@ Patch com a tradução em português da visual novel Dies Irae ~ Amantes Amentes
 Compatível com as versões Steam/DX package/Animation Anniversary. 
 Embora a versão japonesa permita jogar em resolução 16:9 e 4:3, uma ou outra linha pode não ter áudio.
 
-Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**,  **CGs sem censura**, **arquivos de voz faltantes ou censurados**, **linhas sem censura** da versão Acta e conserta **erros de digitação em alemão** (ä,ö,ü,ß)
+Além de adicionar a tradução, este patch restaura o **cursor original**, a **música original de menu**, a **cor original** de texto lido, o **título original** dos capítulos **III e VI**,  **CGs sem censura**, **arquivos de voz faltantes ou censurados**, **linhas sem censura** da versão Acta e conserta **erros de digitação em alemão** (ä,ö,ü,ß) e quebras de linha.
 
 Para informações detalhadas sobre este projeto e como traduzir um jogo que utilize a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/README.md).**
 
