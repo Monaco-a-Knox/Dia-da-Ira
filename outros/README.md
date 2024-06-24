@@ -93,9 +93,15 @@ Nem todos os kanjis chineses são suportados.
 Caso sejam essências, você pode modificar a fonte ou substituí-la por qualquer outra fonte ```.otf```. A nova fonte pode ter o mesmo nome da antiga, ou atualizar o ```malie.ini``` com o nome da nova fonte.
 No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 
-# Tradução e censura de Dies Irae
+# Tradução
 
-A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas.  **Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
+A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. 
+
+A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas. Liberal, sem comprometimento em ser fiel ao texto original. Muitas linhas incompletas ou adicionando trechos inexistentes no japonês. A narração sofre ainda mais com a reescrita pois, diferentemente das outras, a Kei protagoniza boa parte dos capítulos de sua rota. Ao reescrever pensamentos e sentimentos, perde-se personalidade. É diferente de interpretar meia dúzia de linhas de outros personagens.
+
+**Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
+
+# Censura
 
 Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo. Há cerca de 300 linhas que foram editadas, corrigidas, modificadas censura ou removidas na versão japonesa de console.
 Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
