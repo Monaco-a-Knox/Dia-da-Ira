@@ -21,7 +21,7 @@ Caso o número de linhas não seja igual, o programa não irá compilar. Essa ex
 
 Infelizmente, o script extraído pelo StringTool não permite acesso às escolhas e nomes na caixa de texto, tampouco permite adicionar ou remover sobrescritos (rubys) e itálicos, embora possa ignorá-los.
 
-Para isso, é necessário utilizar o programa Malie_Script_Tool, criado por [Crsky](https://github.com/crskycode/Malie_Script_Tool). Este programa é mais recomendado para extrair o script japonês.
+Para isso, é necessário utilizar o programa Malie Script Tool, criado por [Crsky](https://github.com/crskycode/Malie Script Tool). Este programa é mais recomendado para extrair o script japonês.
 
 O arquivo ```exec.msg.txt``` contém o texto duplicado, na qual somente a segunda linha importa para a tradução.
 
@@ -36,7 +36,7 @@ Você encontre ele já compilado por mim neste [repositório](https://github.com
 
 Infelizmente, nenhum desses métodos dá acesso ao script na íntegra, com toda sua programação. É por isso que modificar o número de linhas quebra a compilação.
 
-Além disso, por vezes, um programa pode apresentar incompatibilidades com o outro. Ocorre de um ```.dat``` compilado pelo Malie_Script_Tool não ser aberto depois pelo StringTool — normalmente ao fazer mudanças no ```exec.str.txt```.
+Além disso, por vezes, um programa pode apresentar incompatibilidades com o outro. Ocorre de um ```.dat``` compilado pelo Malie Script Tool não ser aberto depois pelo StringTool — normalmente ao fazer mudanças no ```exec.str.txt```.
 
 # Quebra de linha - line break/wordwarp
 
@@ -45,8 +45,8 @@ Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma for
 
 # Códigos e comandos
 ```
-- [n] — quebrar linha/adicionar nova linha
-- [c] — quebrar linha/adicionar nova linha (aparentemente não há diferença)
+- [n] — quebrar linhas
+- [c] — adicionar nova linha
 - [z] — fim da linha/esperar pelo próximo clique
 - [s] — fim da linha dublada/interromper áudio após o clique
 - [r] — não lembro o que faz
@@ -57,9 +57,9 @@ Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma for
 - Em Dies Irae, este código estranho adiciona itálico.
 ```
 
-- Os comandos acima só podem ser utilizados extraindo o texto com o Malie_Script_Tool.
-- As runas de DI/KKK aparecem como caracteres ilegíveis na extração do Malie_Script_Tool, já na extração do StringTool, a linha meramente fica vazia.
-- Em KKK, é possível adicionar textos sobrescrito por cima das runas (神代文字), mas somente no modo NVL.
+- Os comandos acima só podem ser utilizados extraindo o texto com o Malie Script Tool.
+- As runas de DI/KKK aparecem como caracteres ilegíveis na extração do Malie Script Tool, já na extração do StringTool, a linha meramente fica vazia.
+- Em KKK, é possível adicionar textos sobrescrito por cima das "runas" (神代文字), mas só funciona corretamente no modo NVL ou ADV horizontal.
 
 # Edição de imagens
 
@@ -108,9 +108,9 @@ Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a
 Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
 Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de dezesseis arquivos foram substituídos e outros quatro (v_vi0267 | v_ke4311| v_sy2162 | v_ru5232) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
-A versão inglesa também optou por restaurar **apenas algumas** artes sem censura. Neste patch eu **restaurei todas**: algumas em resolução 16:9 e outras esticadas na resolução original para evitar cortes).
+A versão inglesa também optou por restaurar **apenas algumas** artes sem censura. Neste patch eu **restaurei todas**: algumas em resolução 16:9 e outras esticadas na resolução original 4:3 para evitar cortes).
 
-Adicionar qualquer linha extra quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
+Embora seja possível adicionar "novas linhas" dentro de uma linha já existente, não é possível adicionar novos diálogos independentes pois quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
 
 # Observações
 
