@@ -112,6 +112,13 @@ A versão inglesa também optou por restaurar **apenas algumas** artes sem censu
 
 Embora seja possível adicionar "novas linhas" dentro de uma linha já existente, não é possível adicionar novos diálogos independentes pois quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
 
+# Notas de tradução
+
+Em Dies Irae, a expressão que Machina cita: "[Pote de veneno|Gu](https://en.wikipedia.org/wiki/Gu_(poison)?oldid=477859027)", por vezes escrito de diferentes formas "毒壷|蠱毒|蠱毒の壷" equivale a um "毒瓶" [Killing jar](https://en.wikipedia.org/wiki/Killing_jar), na qual ele próprio denomina-se como o "verme(蠱)" mais forte e sobrevivente. 
+O "Gu" é um veneno criado a partir de diferentes vermes e insetos selados em um pote, no intuito que eles devorem uns aos outros e concentrem todas as suas toxinas no último sobrevivente. O "Gu" era utilizado na magia negra para criar **doenças malignas** e **causar a morte**. Em chinês, o kanji 蠱 originalmente referia-se a serpentes.
+
+No inglês, por motivos que até hoje não entendo, eles tende a se referir como "Gauntlet of Malice". 
+
 # Observações
 
 - Dies Irae é intraduzível, não por causa de seu vocabulário, mas pelo seu estilo narrativo em uma 3º pessoa que simula 1º pessoa. Preservar fielmente esse estilo geraria estranhezas, entretanto a reescrita faz da tradução puramente interpretativa. Não importa se você ler em português, inglês, russo ou qualquer outro idioma (talvez o chinês seja exceção), você não estará lendo Dies Irae, mas uma fanfic. Nesta tradução, a narração simulada de 1º pessoa foi reescrita em 3º pessoa, similar ao que foi feito na versão inglês, mas preservando o tom narrativo original de 1º pessoa em cenas específicas, sempre indicando com aspas ou travessão.
