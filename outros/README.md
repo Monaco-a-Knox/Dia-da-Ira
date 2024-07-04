@@ -21,7 +21,7 @@ Caso o número de linhas não seja igual, o programa não irá compilar. Essa ex
 
 Infelizmente, o script extraído pelo StringTool não permite acesso às escolhas e nomes na caixa de texto, tampouco permite adicionar ou remover sobrescritos (rubys) e itálicos, embora possa ignorá-los.
 
-Para isso, é necessário utilizar o programa Malie Script Tool, criado por [Crsky](https://github.com/crskycode/Malie Script Tool). Este programa é mais recomendado para extrair o script japonês.
+Para isso, é necessário utilizar o programa Malie Script Tool, criado por [Crsky](https://github.com/crskycode/Malie_Script_Tool). Este programa é mais recomendado para extrair o script japonês.
 
 O arquivo ```exec.msg.txt``` contém o texto duplicado, na qual somente a segunda linha importa para a tradução.
 
@@ -94,7 +94,6 @@ Caso sejam essências, você pode modificar a fonte ou substituí-la por qualque
 No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 
 # Tradução
-
 A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. 
 
 A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas. Liberal, sem comprometimento em ser fiel ao texto original. Muitas linhas incompletas ou adicionando trechos inexistentes no japonês. A narração sofre ainda mais com a reescrita pois, diferentemente das outras, a Kei protagoniza boa parte dos capítulos de sua rota. Ao reescrever pensamentos e sentimentos, perde-se personalidade. É diferente de interpretar meia dúzia de linhas de outros personagens.
