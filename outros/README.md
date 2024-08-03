@@ -94,16 +94,24 @@ Caso sejam essências, você pode modificar a fonte ou substituí-la por qualque
 No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 
 # Tradução
-A tradução inglesa de Dies Irae, embora oficial, é de procedência duvidosa. Muitas linhas “americanizadas” e apagamento de referências culturais. Infinitos palavrões desnecessários, frases incompletas, linhas reescritas ao ponto de parecer uma fanfic, inconsistências narrativas entre 1º e 3º pessoa e diversos erros de tradução. 
 
-A rota da Kei é facilmente uma das piores coisas que já vi. Faz as demais parecerem maravilhosas. Liberal, sem comprometimento em ser fiel ao texto original. Muitas linhas incompletas ou adicionando trechos inexistentes no japonês. A narração sofre ainda mais com a reescrita pois, diferentemente das outras, a Kei protagoniza boa parte dos capítulos de sua rota. Ao reescrever pensamentos e sentimentos, perde-se personalidade. É diferente de interpretar meia dúzia de linhas de outros personagens.
+Esse projeto "começou" em 2017, quando traduzi algumas cenas aleatórias, incluindo prólogo, epílogos, duas other story, uma luta e um punhado de cenas cotidianas; totalizando cerca de 6% do jogo.
+Na época, não existiam ferramentes para fazer um patch completo e eu me dei por satisfeito após fazer as cenas que me interessavam.
 
-**Por isso, trabalhar conjuntamente ao script japonês lado a lado torna-se imprescindível.**
+Em julho de 2023, com as ferramentas certas em mão, eu decidi inserir no jogo aquilo que já estava traduzido e prossegui traduzindo o restante.
+
+Em relação à tradução inglesa de Dies Irae, embora oficial, ela é de procedência duvidosa. 
+Muitas linhas reescritas e padronizações inconsistentes entre as rotas — reflexo de ter múltiplos tradutores e editores.
+
+Diversos palavrões desnecessários, frases incompletas ou adicionando conteúdo inexistente para engrandecer a narração ou complementar contextos implícitos do japonês.
+Inconsistências narrativas entre 1º e 3º pessoa e erros de tradução (alguns claramente intencionais a fim de censurar falas problemáticas como セクハラ.)
+
+A rota da Kei é a pior de todas, ao ponto das demais parecerem maravilhosas e impecáveis. Não há qualquer intenção em retratar fielmente as palavras do autor; um contraste gritante com a rota comum.
 
 # Censura
 
 Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo. Há cerca de 300 linhas que foram editadas, corrigidas, modificadas censura ou removidas na versão japonesa de console.
-Sendo assim, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
+Sendo assim, mesmo com todos os problemas, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
 Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
 Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de dezesseis arquivos foram substituídos e outros quatro (v_vi0267 | v_ke4311| v_sy2162 | v_ru5232) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
