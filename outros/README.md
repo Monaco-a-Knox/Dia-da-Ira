@@ -32,7 +32,7 @@ O arquivo ```exec.str.txt``` contém as escolhas e nomes dos personagens. Nele t
 ```src='text01'``` refere-sem, em KKK, às imagens das cartas.
 
 Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
-Você encontre ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
+Você encontra ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
 
 Infelizmente, nenhum desses métodos dá acesso ao script na íntegra, com toda sua programação. É por isso que modificar o número de linhas quebra a compilação.
 
@@ -104,13 +104,13 @@ Em relação à tradução inglesa de Dies Irae, embora oficial, ela é de proce
 Muitas linhas reescritas e padronizações inconsistentes entre as rotas — reflexo de ter múltiplos tradutores e editores.
 
 Diversos palavrões desnecessários, frases incompletas ou adicionando conteúdo inexistente para engrandecer a narração ou complementar contextos implícitos do japonês.
-Inconsistências narrativas entre 1º e 3º pessoa e erros de tradução (alguns claramente intencionais a fim de censurar falas problemáticas como セクハラ.)
+Inconsistências narrativas entre 1º e 3º pessoa e erros de tradução (alguns claramente intencionais, a fim de censurar falas problemáticas como セクハラ.)
 
 A rota da Kei é a pior de todas, ao ponto das demais parecerem maravilhosas e impecáveis. Não há qualquer intenção em retratar fielmente as palavras do autor; um contraste gritante com a rota comum.
 
 # Censura
 
-Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo. Há cerca de 300 linhas que foram editadas, corrigidas, modificadas censura ou removidas na versão japonesa de console.
+Como você deve saber, a versão japonesa de Amantes Amantes, lançada para computador, é baseada na versão de PSP. Todo eroge lançado para console sofre censura, tanto visual quanto textual, muito além de meramente remover as cenas de sexo. Há cerca de 300 linhas que foram editadas, corrigidas, modificadas, censuradas ou removidas na versão japonesa de console.
 Sendo assim, mesmo com todos os problemas, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
 Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
