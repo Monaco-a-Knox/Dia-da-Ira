@@ -26,11 +26,11 @@ Para informações detalhadas sobre este projeto e como traduzir jogos que utili
 - Prólogo - 1/1 capítulo
 - Rota comum - 6/6 capítulos
 - Rota da Kasumi - 7/7 capítulos
-- Rota da Kei - 4/7 capítulos
+- Rota da Kei - 5/7 capítulos
 - Rota da Marie - 7/7 capítulos
 - Rota da Rea - 7/7 capítulos
 - Other Story - 5/5  capítulos
-- Total - 37/40 capítulos
+- Total - 38/40 capítulos
 
 Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
 

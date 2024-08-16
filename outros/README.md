@@ -95,7 +95,7 @@ No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 
 # Tradução
 
-Esse projeto "começou" em 2017, quando traduzi algumas cenas aleatórias, incluindo prólogo, epílogos, duas other story, uma luta e um punhado de cenas cotidianas; totalizando cerca de 6% do jogo.
+Esse projeto "começou" em 13/10/2017, quando traduzi algumas cenas aleatórias, incluindo prólogo, epílogos, duas other story, uma luta e um punhado de cenas cotidianas; totalizando cerca de 6% do jogo.
 Na época, não existiam ferramentes para fazer um patch completo e eu me dei por satisfeito após fazer as cenas que me interessavam.
 
 Em julho de 2023, com as ferramentas certas em mão, eu decidi inserir no jogo aquilo que já estava traduzido e prossegui traduzindo o restante.
