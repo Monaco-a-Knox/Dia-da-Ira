@@ -11,18 +11,18 @@ PlayResY: 600
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: mv_301.mpg
-Video File: mv_301.mpg
+Audio File: ../mv_301.mpg
+Video File: ../mv_301.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
 Scroll Position: 18
 Active Line: 28
-Video Position: 746
+Video Position: 2580
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: AA,@A-OTF リュウミン Pr6N B-KL,34,&H00FFFFFF,&H000000FF,&H00226CC2,&H80000000,-1,0,0,0,100,100,0.3,0,1,2,0,3,20,20,80,1
+Style: AA,@A-OTF リュウミン Pr6N B-KL,34,&H00FFFFFF,&H000000FF,&H00226CC2,&H80000000,-1,0,0,0,100,100,0.3,0,1,2,0,3,20,20,90,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

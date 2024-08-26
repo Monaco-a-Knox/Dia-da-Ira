@@ -11,18 +11,18 @@ PlayResY: 600
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ed_1c.mpg
-Video File: ed_1c.mpg
+Audio File: ../ed_1c.mpg
+Video File: ../ed_1c.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 2
-Active Line: 16
-Video Position: 581
+Active Line: 11
+Video Position: 437
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: AA,@A-OTF リュウミン Pr6N B-KL,34,&H00FFFFFF,&H000000FF,&H00011B62,&H80000000,0,0,0,0,100,100,0.3,0,1,2,0,3,20,20,60,1
+Style: AA,@A-OTF リュウミン Pr6N B-KL,34,&H00FFFFFF,&H000000FF,&H00011B62,&H80000000,0,0,0,0,100,100,0.3,0,1,2,0,3,20,20,90,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
