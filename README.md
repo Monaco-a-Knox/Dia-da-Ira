@@ -14,6 +14,7 @@ Este patch:
 - Restaura **arquivos de voz faltantes ou censurados** (16 arquivos, sendo 4 anexados em linhas anteriores)
 - Restaura **linhas sem censura** (Leves edições para adequar o texto)
 - Restaura **nomes oficiais** (Em conformidade ao artbook "Ω Ewigkeit")
+- Restaura **créditos orginais** (Músicas traduzidas)
 - Conserta **erros de digitação em alemão** (ä,ö,ü,ß)
 - Conserta **linhas quebradas** (`[c]` e `[s]"[z]`)
 - Preserva **narração em 1º pessoa** (Em linhas específicas e cenas de teor emocional)
