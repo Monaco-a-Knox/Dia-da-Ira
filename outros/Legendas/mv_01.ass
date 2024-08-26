@@ -15,8 +15,8 @@ Video File: mv_01.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 72
-Active Line: 80
+Scroll Position: 36
+Active Line: 65
 Video Position: 8061
 
 [V4+ Styles]
@@ -89,14 +89,14 @@ Dialogue: 1,0:03:13.11,0:03:17.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\s
 Dialogue: 0,0:03:13.11,0:03:17.91,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Caso mil batalhas não resultem na vitória, \Ndevem então lutar dez mil batalhas.
 Dialogue: 1,0:03:17.91,0:03:24.51,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Ad aeternum — jurem lutar por uma eternidade, até que a luz da vitória finalmente rutile sobre vocês.
 Dialogue: 0,0:03:17.91,0:03:24.51,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Ad aeternum — jurem lutar por uma eternidade, até que a luz da vitória finalmente rutile sobre vocês.
-Dialogue: 1,0:03:26.31,0:03:32.31,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Se capazes disso forem, terão permissão \Npara tornarem-se membros desta “Arte”.
-Dialogue: 0,0:03:26.31,0:03:32.31,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Se capazes disso forem, terão permissão \Npara tornarem-se membros desta “Arte”.
+Dialogue: 1,0:03:26.31,0:03:32.31,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Se capazes disso forem, terão permissão \Npara tornarem-se membros desta "Arte".
+Dialogue: 0,0:03:26.31,0:03:32.31,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Se capazes disso forem, terão permissão \Npara tornarem-se membros desta "Arte".
 Dialogue: 1,0:03:34.71,0:03:37.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Tudo para reivindicar a eterna vitória.
 Dialogue: 0,0:03:34.71,0:03:37.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Tudo para reivindicar a eterna vitória.
 Dialogue: 1,0:03:43.11,0:03:50.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Abençoarei carne e sangue de cada um de vocês que compõem as vertentes da Juba da Besta.
 Dialogue: 0,0:03:43.11,0:03:50.91,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Abençoarei carne e sangue de cada um de vocês que compõem as vertentes da Juba da Besta.
-Dialogue: 1,0:03:51.51,0:03:56.58,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Embora nós, assim como “ele”, neste exato momento,
-Dialogue: 0,0:03:51.51,0:03:56.58,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Embora nós, assim como “ele”, neste exato momento,
+Dialogue: 1,0:03:51.51,0:03:56.58,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Embora nós, assim como "ele", neste exato momento,
+Dialogue: 0,0:03:51.51,0:03:56.58,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Embora nós, assim como "ele", neste exato momento,
 Dialogue: 1,0:03:56.58,0:03:59.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}ainda possamos estar agrilhoados a este vexatório ciclo.
 Dialogue: 0,0:03:56.58,0:03:59.91,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}ainda possamos estar agrilhoados a este vexatório ciclo.
 Dialogue: 1,0:03:59.91,0:04:06.51,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Deixe-nos acreditar que a decisão que estamos para tomar neste momento verdadeiramente possui um significado.

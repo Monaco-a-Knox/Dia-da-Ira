@@ -17,7 +17,7 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
 Scroll Position: 18
-Active Line: 21
+Active Line: 28
 Video Position: 746
 
 [V4+ Styles]
@@ -54,7 +54,7 @@ Dialogue: 0,0:00:58.48,0:01:02.88,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}
 Dialogue: 0,0:01:02.88,0:01:07.25,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}neste labirinto controlado?
 Dialogue: 0,0:01:08.38,0:01:16.41,AA,,0,0,0,,{\fad(500,800)\blur1.5}Um poema é entoado em afinado júbilo.
 Dialogue: 0,0:01:16.41,0:01:25.41,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H297693&}Pós-imagens da Ira caem em sono profundo.
-Dialogue: 0,0:01:25.41,0:01:29.18,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}“Ao Lorde: Prosit.”
+Dialogue: 0,0:01:25.41,0:01:29.18,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}"Ao Lorde: Prosit."
 Dialogue: 0,0:01:29.18,0:01:32.68,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}Vamos exaltar
 Dialogue: 0,0:01:32.68,0:01:37.81,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H8C136C&\t(0,2934,1,\3c&H0F1397&}a sombra carmesim que aqui desperta.
 Dialogue: 0,0:01:37.81,0:01:41.71,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H0316B1&\t(0,3051,1\3c&H440E61&}Assinado o contrato,

@@ -16,8 +16,8 @@ Video File: ed_2c.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 17
-Active Line: 27
+Scroll Position: 5
+Active Line: 16
 Video Position: 3680
 
 [V4+ Styles]
@@ -40,9 +40,9 @@ Comment: 0,0:01:44.68,0:01:58.15,AA,,0,0,0,,{\fad(500,800)\blur1.5}輪廻は 止
 Dialogue: 0,0:00:12.85,0:00:17.68,AA,,0,0,0,,{\fad(1500,800)\blur1.5\3c&HAB6519&\t(0,538,1\3c&H011B62&}Observando o céu noturno,
 Dialogue: 0,0:00:18.51,0:00:21.45,AA,,0,0,0,,{\fad(500,800)\blur1.5}dentre inúmeras estrelas,
 Dialogue: 0,0:00:22.20,0:00:28.15,AA,,0,0,0,,{\fad(500,800)\blur1.5}avistamos treze luzes.
-Dialogue: 0,0:00:28.60,0:00:31.31,AA,,0,0,0,,{\fad(500,800)\blur1.5}“Não são lindas?”
+Dialogue: 0,0:00:28.60,0:00:31.31,AA,,0,0,0,,{\fad(500,800)\blur1.5}"Não são lindas?"
 Dialogue: 0,0:00:33.61,0:00:39.66,AA,,0,0,0,,{\fad(500,800)\blur1.5}Você comentou, com um sorriso inocente e adorável.
-Dialogue: 0,0:00:39.66,0:00:47.21,AA,,0,0,0,,{\fad(500,800)\blur1.5}Falando sobre o “tédio” e a “felicidade” do cotidiano.
+Dialogue: 0,0:00:39.66,0:00:47.21,AA,,0,0,0,,{\fad(500,800)\blur1.5}Falando sobre o "tédio" e a "felicidade" do cotidiano.
 Dialogue: 0,0:00:47.21,0:00:50.25,AA,,0,0,0,,{\fad(500,800)\blur1.5}Eu o entendi
 Dialogue: 0,0:00:50.25,0:00:56.78,AA,,0,0,0,,{\fad(500,800)\blur1.5}e me fiz de desentendida...
 Dialogue: 0,0:00:56.78,0:01:03.78,AA,,0,0,0,,{\fad(500,800)\blur1.5}Ah... Über den Himmel
