@@ -15,8 +15,8 @@ Video File: ../../../Dia-da-Ira Eiga Original/mv_01.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 21
-Video Position: 8202
+Active Line: 3
+Video Position: 744
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +28,8 @@ Dialogue: 1,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\s
 Dialogue: 0,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}O que fariam se eu lhes dissesse que tudo em suas vidas já está predeterminado?
 Dialogue: 1,0:00:16.71,0:00:22.11,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Cada uma de suas escolhas nesta vida, \Nda mais trivial até a mais monumental,
 Dialogue: 0,0:00:16.71,0:00:22.11,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Cada uma de suas escolhas nesta vida, \Nda mais trivial até a mais monumental,
-Dialogue: 1,0:00:22.11,0:00:25.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}não são tomadas por vocês, \Nmas decididas previamente?
-Dialogue: 0,0:00:22.11,0:00:25.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}não são tomadas por vocês, \Nmas decididas previamente?
+Dialogue: 1,0:00:22.11,0:00:25.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}não são tomadas por volição, mas coação?
+Dialogue: 0,0:00:22.11,0:00:25.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}não são tomadas por volição, mas coação?
 Dialogue: 1,0:00:26.31,0:00:30.51,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}A vida ser uma jornada de infinitas possibilidades não passa de uma ilusão,
 Dialogue: 0,0:00:26.31,0:00:30.51,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}A vida ser uma jornada de infinitas possibilidades não passa de uma ilusão,
 Dialogue: 1,0:00:30.51,0:00:35.31,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}e não importa o quão ferozmente o homem lute, \Nele fica à mercê de um longo caminho já traçado.
