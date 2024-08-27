@@ -15,8 +15,7 @@ Video File: ../../../Dia-da-Ira Eiga Original/mv_01.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 72
-Active Line: 76
+Active Line: 21
 Video Position: 8202
 
 [V4+ Styles]
@@ -25,8 +24,8 @@ Style: Intro,@A-OTF リュウミン Pr6N B-KL,35,&H00FDFDFD,&H000000FF,&H000235C
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}O que fariam se eu lhes dissessem que tudo em suas vidas já está predeterminado?
-Dialogue: 0,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}O que fariam se eu lhes dissessem que tudo em suas vidas já está predeterminado?
+Dialogue: 1,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}O que fariam se eu lhes dissesse que tudo em suas vidas já está predeterminado?
+Dialogue: 0,0:00:08.31,0:00:13.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}O que fariam se eu lhes dissesse que tudo em suas vidas já está predeterminado?
 Dialogue: 1,0:00:16.71,0:00:22.11,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Cada uma de suas escolhas nesta vida, \Nda mais trivial até a mais monumental,
 Dialogue: 0,0:00:16.71,0:00:22.11,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Cada uma de suas escolhas nesta vida, \Nda mais trivial até a mais monumental,
 Dialogue: 1,0:00:22.11,0:00:25.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}não são tomadas por vocês, \Nmas decididas previamente?
@@ -45,8 +44,8 @@ Dialogue: 1,0:00:50.31,0:00:53.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\s
 Dialogue: 0,0:00:50.31,0:00:53.91,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}E então, os vitoriosos e os derrotados.
 Dialogue: 1,0:00:53.91,0:01:01.71,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}E se eu disser que tudo é predeterminado, não permitindo qualquer divergência?
 Dialogue: 0,0:00:53.91,0:01:01.71,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}E se eu disser que tudo é predeterminado, não permitindo qualquer divergência?
-Dialogue: 1,0:01:02.91,0:01:08.31,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Sendo o caso, pecadores não têm a responder e santos não detém de quaisquer virtudes.
-Dialogue: 0,0:01:02.91,0:01:08.31,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Sendo o caso, pecadores não têm a responder e santos não detém de quaisquer virtudes.
+Dialogue: 1,0:01:02.91,0:01:08.31,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}Sendo o caso, pecadores não têm a responder e santos não detêm de quaisquer virtudes.
+Dialogue: 0,0:01:02.91,0:01:08.31,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}Sendo o caso, pecadores não têm a responder e santos não detêm de quaisquer virtudes.
 Dialogue: 1,0:01:11.31,0:01:17.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}E se eu lhes dissesse que nenhuma de suas ações é tomada por livre arbítrio?
 Dialogue: 0,0:01:11.31,0:01:17.91,Intro,,0,0,0,,{\blur4.2\fade(1200,800)\bord1.4\shad0\c&H1450EC&\3c&H1450EC&\2a&HFF&}E se eu lhes dissesse que nenhuma de suas ações é tomada por livre arbítrio?
 Dialogue: 1,0:01:19.71,0:01:23.91,Intro,,0,0,0,,{\blur0.2\fade(1200,800)\bord0\shad0\c&HFAFEFF&\3c&H1452F4&\2a&HFF&}E sim, por algo que já havia sido \Ndecidido há muito tempo atrás?
