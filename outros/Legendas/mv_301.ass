@@ -15,10 +15,10 @@ Audio File: ../../../Dia-da-Ira Eiga Original/mv_301.mpg
 Video File: ../../../Dia-da-Ira Eiga Original/mv_301.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.125000
-Scroll Position: 24
-Active Line: 33
-Video Position: 3194
+Video Zoom Percent: 0.875000
+Scroll Position: 18
+Active Line: 31
+Video Position: 2954
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,20 +44,20 @@ Comment: 0,0:01:37.81,0:01:41.71,AA,,0,0,0,,{\fad(500,800)\blur1.5}契約は交�
 Comment: 0,0:01:41.71,0:01:45.65,AA,,0,0,0,,{\fad(500,800)\blur1.5}悦び 狂喜 蝕む
 Comment: 0,0:01:45.65,0:01:49.95,AA,,0,0,0,,{\fad(500,800)\blur1.5}そう、君の手で... 全てよ 還れ
 Dialogue: 0,0:00:04.21,0:00:07.80,AA,,0,0,0,,{\fad(500,800)\blur1.5\blur1.5}Vamos exaltar
-Dialogue: 0,0:00:07.80,0:00:12.55,AA,,0,0,0,,{\fad(500,800)\blur1.5}a sombra carmesim que aqui desperta.
+Dialogue: 0,0:00:07.80,0:00:12.95,AA,,0,0,0,,{\fad(500,800)\blur1.5}a sombra encarnada que aqui desperta.
 Dialogue: 0,0:00:12.95,0:00:16.68,AA,,0,0,0,,{\fad(500,800)\blur1.5}Assinado o contrato,
 Dialogue: 0,0:00:16.68,0:00:20.51,AA,,0,0,0,,{\fad(500,800)\blur1.5}euforia e êxtase corrompem-se.
 Dialogue: 0,0:00:20.81,0:00:25.15,AA,,0,0,0,,{\fad(500,800)\blur1.5}Que tudo retorne
-Dialogue: 0,0:00:25.15,0:00:30.85,AA,,0,0,0,,{\fad(500,800)\blur1.5}a partir de suas mãos...
-Dialogue: 0,0:00:49.98,0:00:58.48,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}O impulso de penetrar a origem deste mal.
+Dialogue: 0,0:00:25.15,0:00:30.38,AA,,0,0,0,,{\fad(500,800)\blur1.5}a partir de suas mãos...
+Dialogue: 0,0:00:49.98,0:00:58.48,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}O impulso de penetrar a origem deste mal rompante.
 Dialogue: 0,0:00:58.48,0:01:02.88,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}Será capaz de chegar à verdade
-Dialogue: 0,0:01:02.88,0:01:07.25,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}neste labirinto controlado?
+Dialogue: 0,0:01:02.88,0:01:07.25,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}neste labirinto manipulado pelas sombras?
 Dialogue: 0,0:01:08.38,0:01:16.41,AA,,0,0,0,,{\fad(500,800)\blur1.5}Um poema é entoado em afinado júbilo.
 Dialogue: 0,0:01:16.41,0:01:25.41,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H297693&}Pós-imagens da Ira caem em sono profundo.
 Dialogue: 0,0:01:25.41,0:01:29.18,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}"Ao Lorde: Prosit."
 Dialogue: 0,0:01:29.18,0:01:32.68,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}Vamos exaltar
-Dialogue: 0,0:01:32.68,0:01:37.81,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H8C136C&\t(0,2934,1,\3c&H0F1397&}a sombra carmesim que aqui desperta.
-Dialogue: 0,0:01:37.81,0:01:41.71,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H0316B1&\t(0,3051,1\3c&H440E61&}Assinado o contrato,
-Dialogue: 0,0:01:41.71,0:01:45.65,AA,,0,0,0,,{\fad(500,800)\blur1.5}júbilo e êxtase corrompem-se.
+Dialogue: 0,0:01:32.68,0:01:37.81,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H8C136C&\t(0,2934,1,\3c&H0F1397&}a sombra encarnada que aqui desperta.
+Dialogue: 0,0:01:37.81,0:01:41.18,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H0316B1&\t(0,3035,1\3c&H440E61&}Assinado o contrato,
+Dialogue: 0,0:01:41.71,0:01:45.65,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H826A2A&\t(0,3169,1,\3c&H226CC2&}júbilo e êxtase corrompem-se.
 Dialogue: 0,0:01:45.65,0:01:50.01,AA,,0,0,0,,{\fad(500,800)\blur1.5}Que tudo retorne
 Dialogue: 0,0:01:50.01,0:01:55.95,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H343A02&}a partir de suas mãos...
