@@ -121,10 +121,15 @@ Embora seja possível adicionar "novas linhas" dentro de uma linha já existente
 
 # Notas de tradução
 
-Em Dies Irae, a expressão que Machina cita: "[Pote de veneno|Gu](https://en.wikipedia.org/wiki/Gu_(poison)?oldid=477859027)", por vezes escrito de diferentes formas "毒壷|蠱毒|蠱毒の壷" equivale a um "毒瓶" [Killing jar](https://en.wikipedia.org/wiki/Killing_jar), na qual ele próprio denomina-se como o "verme(蠱)" mais forte e sobrevivente. 
+Em Dies Irae, a expressão que Machina cita: "[Pote de veneno|Gu](https://en.wikipedia.org/wiki/Gu_(poison)?oldid=477859027)", por vezes variado na forma de "毒壷|蠱毒|蠱毒の壷" seria equivalente a um "毒瓶" [Killing jar](https://en.wikipedia.org/wiki/Killing_jar), na qual ele próprio denomina-se como o "verme(蠱)" mais forte e sobrevivente. 
 O "Gu" é um veneno criado a partir de diferentes vermes e insetos selados em um pote, no intuito que eles devorem uns aos outros e concentrem todas as suas toxinas no último sobrevivente. O "Gu" era utilizado na magia negra para criar **doenças malignas** e **causar a morte**. Em chinês, o kanji 蠱 originalmente referia-se a serpentes.
 
-No inglês, por motivos que até hoje não entendo, eles tende a se referir como "Gauntlet of Malice". 
+No inglês, por motivos que até hoje não entendo, eles tende a se referir como "Gauntlet of Malice".
+
+---- 
+
+"Pucchin" é uma onomatopeia indicando que a pessoa está irritada, e "purin" significa "pudim". Junte ambos e você tem uma marca de pudim chamada PucchinPudim (プッチンプリン).
+Eu cogitei colocar "Estou puta" e "Tá quanto?", mas, apesar de ser uma adaptação interessante, não combina com a personalidade infantil da Kasumi.
 
 # Observações
 
