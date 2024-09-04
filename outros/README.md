@@ -128,7 +128,7 @@ No inglês, por motivos que até hoje não entendo, eles tende a se referir como
 
 ---- 
 
-"Pucchin" é uma onomatopeia indicando que a pessoa está irritada, e "purin" significa "pudim". Junte ambos e você tem uma marca de pudim chamada PucchinPudim (プッチンプリン).
+"Pucchin" é uma onomatopeia datada que indica exprime irritação, e "purin" significa "pudim". Junte ambos e você tem uma marca de pudim chamada PucchinPudim (プッチンプリン). Em sua concepção, a onomatopeia utilizada pela empresa representava o som do "pudim caindo no prato".
 Eu cogitei colocar "Estou puta" e "Tá quanto?", mas, apesar de ser uma adaptação interessante, não combina com a personalidade infantil da Kasumi.
 
 # Observações
