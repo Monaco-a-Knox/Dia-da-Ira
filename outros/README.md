@@ -96,7 +96,7 @@ No caso de KKK, o jogo já oferece diferentes fontes puxadas do sistema.
 # Tradução
 
 Esse projeto "começou" em 13/10/2017, quando traduzi algumas cenas aleatórias, incluindo prólogo, epílogos, duas other story, uma luta e um punhado de cenas cotidianas; totalizando cerca de 6% do jogo.
-Na época, não existiam ferramentes para fazer um patch completo e eu me dei por satisfeito após fazer as cenas que me interessavam.
+Na época, não existiam ferramentas para fazer um patch completo e eu me dei por satisfeito após fazer as cenas que me interessavam.
 
 Em julho de 2023, com as ferramentas certas em mão, eu decidi inserir no jogo aquilo que já estava traduzido e prossegui traduzindo o restante.
 
@@ -114,7 +114,7 @@ Como você deve saber, a versão japonesa de Amantes Amantes, lançada para comp
 Sendo assim, mesmo com todos os problemas, acaba por ser **obrigatório usar o script inglês como base para a tradução**, isso porque ele **restaurou** grande parte das linhas originais da versão Acta Est Fabula, tanto as linhas reescrita quanto as linhas que foram removidas.
 Contudo, a versão inglesa não restaurou 100% dessas linhas — 95% eu diria.
 
-Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de dezesseis arquivos foram substituídos e outros quatro (v_vi0267 | v_ke4311| v_sy2162 | v_ru5232) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
+Tudo o que eu pude restaurar em conformidade ao jogo original, eu restaurei, incluído no patch os respectivos arquivos de voz originais esquecidos ou sem censura. Um total de dezessete arquivos foram substituídos e outros cinco (v_vi0267 | v_ke4311| v_sy2162 | v_ru5232 | al_0025) precisaram ser anexados nos áudios da linha anterior, uma vez que as linhas não existiam no script e adicionar novas linhas quebra a compilação. Apenas o áudio v_ma3009 não foi restaurado porque faz referência direta a uma h-scene e não tem sentido sem ela.
 A versão inglesa também optou por restaurar **apenas algumas** artes sem censura. Neste patch eu **restaurei todas**: algumas em resolução 16:9 e outras esticadas na resolução original 4:3 para evitar cortes).
 
 Embora seja possível adicionar "novas linhas" dentro de uma linha já existente, não é possível adicionar novos diálogos independentes pois quebra o atual processo de compilação. Assim sendo, é impossível fazer uma versão 2 em 1, com todo o conteúdo do Amantes e as cenas H do Acta.
