@@ -1,7 +1,7 @@
 # Traduzindo a engine MalieSystem
 
 Dentro do arquivo ```.ini``` estão instruções sobre música de menu, cor de texto lido, tamanho da fonte e outras coisas.
-Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhecem se não estiverem compilados.
+Dentro da pasta ```data``` costuma-se encontrar o cursor e o ícone, os quais o jogo (Dies Irae) só reconhece se não estiverem compilados.
 Dentro do arquivo ```translation.csv```, quando houver, é possível traduzir alguns botões do jogo que são acessados pela janela. Infelizmente eles não suportam acentuação.
 
 A engine MalieSystem sempre dá prioridade para puxar o script e demais conteúdos adicionais no ```.dat``` de numeração mais alta.
