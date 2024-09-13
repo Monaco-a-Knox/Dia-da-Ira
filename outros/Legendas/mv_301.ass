@@ -15,10 +15,10 @@ Audio File: ../../../Dia-da-Ira Eiga Original/mv_301.mpg
 Video File: ../../../Dia-da-Ira Eiga Original/mv_301.mpg
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
+Video Zoom Percent: 1.125000
 Scroll Position: 18
-Active Line: 31
-Video Position: 2954
+Active Line: 25
+Video Position: 2017
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,7 +51,7 @@ Dialogue: 0,0:00:20.81,0:00:25.15,AA,,0,0,0,,{\fad(500,800)\blur1.5}Que tudo ret
 Dialogue: 0,0:00:25.15,0:00:30.38,AA,,0,0,0,,{\fad(500,800)\blur1.5}a partir de suas mãos...
 Dialogue: 0,0:00:49.98,0:00:58.48,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}O impulso de penetrar a origem deste mal rompante.
 Dialogue: 0,0:00:58.48,0:01:02.88,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}Será capaz de chegar à verdade
-Dialogue: 0,0:01:02.88,0:01:07.25,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}neste labirinto manipulado pelas sombras?
+Dialogue: 0,0:01:02.88,0:01:07.25,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H644D39&}neste labirinto manipulado pelas coxias?
 Dialogue: 0,0:01:08.38,0:01:16.41,AA,,0,0,0,,{\fad(500,800)\blur1.5}Um poema é entoado em afinado júbilo.
 Dialogue: 0,0:01:16.41,0:01:25.41,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H297693&}Pós-imagens da Ira caem em sono profundo.
 Dialogue: 0,0:01:25.41,0:01:29.18,AA,,0,0,0,,{\fad(500,800)\blur1.5\3c&H9E671C&}"Ao Lorde: Prosit."
