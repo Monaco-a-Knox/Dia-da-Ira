@@ -133,3 +133,4 @@ Embora seja possível adicionar "novas linhas" dentro de uma linha já existente
 - Em alguns jogos, como Senshinkan, você pode ter problemas para instalar. Meramente extrair o conteúdo do primeiro arquivo não vai extrair na sequência o conteúdo dos seguintes. É necessário extrair um por um, individualmente.
 - Em Kajiri Kamui Kagura, você pode ter problemas com a caixa de texto se modificar o script com todos os arquivos extraídos. Jamais delete os ```.dat``` originais pois são necessários para restaurar a caixa que você quebrou.
 - Ao salvar o jogo, o script atual fica armazenado no cache. Isso significa que, mesmo atualizando o patch, você ainda verá texto antigo até o fim do capítulo ou até que inicie um "novo jogo".
+- Para mais informações sobre KKK, confira [aqui](https://github.com/Akaruzi/kkk_r18_patch/blob/master/entrans_tutorial.md).
